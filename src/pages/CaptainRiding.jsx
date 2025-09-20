@@ -31,7 +31,7 @@ const CaptainRiding = () => {
       {/* Background image for large screens */}
       <div className="hidden lg:block absolute inset-0 z-[-2]">
         <img
-          src="/IMG/GoRide-Laptop.png"
+          src="/GoRide-Laptop.png"
           alt="Background"
           className="w-full h-full object-cover"
         />

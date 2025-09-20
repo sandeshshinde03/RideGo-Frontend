@@ -11,7 +11,7 @@ const CaptainDetails = () => {
         <div className="flex items-center gap-4">
           <img
             className="h-10 w-10 rounded-full object-cover"
-            src="/IMG/DriverIMG.jpg"
+            src="/DriverIMG.jpg"
             alt="Driver IMG"
           />
           <h4 className="text-lg font-medium capitalize">

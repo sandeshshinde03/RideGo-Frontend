@@ -73,7 +73,7 @@ const CaptainSignUp = () => {
       >
         {/* Logo */}
         <img
-          src="/IMG/captain.png"
+          src="/captain.png"
           alt="Captain Logo"
           className="h-12 object-contain m-4 self-start"
         />
@@ -191,7 +191,7 @@ const CaptainSignUp = () => {
       <div className="hidden sm:block w-full h-full bg-[#eae1fe] overflow-hidden select-none border-l-2 border-black">
         <img
           className="h-full object-cover mx-auto select-none"
-          src="/IMG/GoRide-Laptop.png"
+          src="/GoRide-Laptop.png"
           alt="Side image"
         />
       </div>

@@ -19,7 +19,7 @@ const LookingForDriver = (props) => {
 
       <div className="flex flex-col items-center gap-4">
         {/* Vehicle Image */}
-        <img className="h-20" src="/IMG/CarPng.png" alt="CarPNG" />
+        <img className="h-20" src="/CarPng.png" alt="CarPNG" />
 
         <div className="w-full mt-4">
           {/* Pickup */}

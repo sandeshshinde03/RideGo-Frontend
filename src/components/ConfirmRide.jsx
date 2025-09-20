@@ -16,7 +16,7 @@ const ConfirmRide = (props) => {
       <h3 className="text-2xl font-semibold mb-6 text-center">Confirm your ride</h3>
 
       <div className="flex flex-col items-center gap-4">
-        <img className="h-20" src="/IMG/CarPng.png" alt="CarPNG" />
+        <img className="h-20" src="/CarPng.png" alt="CarPNG" />
 
         <div className="w-full mt-4">
           {/* Pickup */}

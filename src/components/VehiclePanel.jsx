@@ -24,7 +24,7 @@ const VehiclePanel = (props) => {
           }}
           className="flex items-center justify-between border-2 border-transparent hover:border-black bg-gray-100 rounded-xl p-3 cursor-pointer transition"
         >
-          <img className="h-10 w-auto" src="/IMG/CarPng.png" alt="Car" />
+          <img className="h-10 w-auto" src="/CarPng.png" alt="Car" />
           <div className="w-1/2 px-2">
             <h4 className="font-medium text-base flex items-center gap-1">
               RideGo <i className="ri-user-3-fill text-gray-600 text-sm"></i> 4
@@ -45,7 +45,7 @@ const VehiclePanel = (props) => {
           }}
           className="flex items-center justify-between border-2 border-transparent hover:border-black bg-gray-100 rounded-xl p-3 cursor-pointer transition"
         >
-          <img className="h-11 w-auto" src="/IMG/BikePng.png" alt="Bike" />
+          <img className="h-11 w-auto" src="/BikePng.png" alt="Bike" />
           <div className="w-1/2 px-2">
             <h4 className="font-medium text-base flex items-center gap-1">
               Moto <i className="ri-user-3-fill text-gray-600 text-sm"></i> 1
@@ -66,7 +66,7 @@ const VehiclePanel = (props) => {
           }}
           className="flex items-center justify-between border-2 border-transparent hover:border-black bg-gray-100 rounded-xl p-3 cursor-pointer transition"
         >
-          <img className="h-12 w-auto" src="/IMG/AutoPng.png" alt="Auto" />
+          <img className="h-12 w-auto" src="/AutoPng.png" alt="Auto" />
           <div className="w-1/2 px-2">
             <h4 className="font-medium text-base flex items-center gap-1">
               Auto <i className="ri-user-3-fill text-gray-600 text-sm"></i> 3

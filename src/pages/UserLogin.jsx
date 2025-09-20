@@ -36,7 +36,7 @@ const UserLogin = () => {
         style={{ backgroundImage: "url('/IMG/GoRide-Mobile.png')" }}
       >
         {/* Logo */}
-        <img src="/IMG/logo.png" alt="Logo" className="h-20 object-contain m-4 self-start" />
+        <img src="/logo.png" alt="Logo" className="h-20 object-contain m-4 self-start" />
 
         {/* Login form */}
         <div className="flex flex-col bg-white p-6 gap-6 rounded-t-lg">
@@ -87,7 +87,7 @@ const UserLogin = () => {
       <div className="hidden sm:block w-full h-full bg-[#eae1fe] overflow-hidden select-none border-l-2 border-black">
         <img
           className="h-full object-cover mx-auto select-none"
-          src="/IMG/GoRide-Laptop.png"
+          src="/GoRide-Laptop.png"
           alt="Side image"
         />
       </div>
