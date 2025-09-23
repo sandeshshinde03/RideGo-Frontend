@@ -46,7 +46,7 @@ const Riding = () => {
         {/* Ride info panel */}
         <div className="h-1/2 p-6 bg-white rounded-t-2xl shadow-xl flex flex-col justify-between">
           <div className="flex items-center justify-between">
-            <img className="h-12" src="\IMG\CarPng.png" alt="CarPNG" />
+            <img className="h-12" src="\CarPng.png" alt="CarPNG" />
             <div className="text-right">
               <h2 className="text-lg font-medium capitalize">
                 {ride?.captain.fullname.firstname}
