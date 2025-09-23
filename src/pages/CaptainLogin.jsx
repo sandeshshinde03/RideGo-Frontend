@@ -33,7 +33,7 @@ const CaptainLogin = () => {
       {/* Left panel: login form */}
       <div
         className="relative w-full sm:min-w-[350px] sm:w-[400px] h-full bg-white overflow-hidden flex flex-col justify-between bg-cover bg-center"
-        style={{ backgroundImage: "url('/IMG/GoRide-Mobile.png')" }}
+        style={{ backgroundImage: "url('/GoRide-Mobile.png')" }}
       >
         {/* Logo */}
         <img
